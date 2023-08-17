@@ -1,6 +1,7 @@
 /*
 Covid 19 Data Exploration 
 Data Obtained from: https://ourworldindata.org/covid-deaths
+Tableau Data Visualiztion available here: https://public.tableau.com/app/profile/gabriel.mishaan/viz/COVID19PublicData/Dashboard1
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 */
